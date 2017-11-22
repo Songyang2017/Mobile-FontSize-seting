@@ -23,5 +23,8 @@
 
 
 第二种的demo:https://songyang2017.github.io/Mobile-FontSize-seting/scale.html
+源码可去上面找，
+第二种原理是，1rem=(页面的宽度/750)*100,这个不会有750的限制
 
 
+第三种是手机淘宝团队使用的flexible.js这个以后再说。
