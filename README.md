@@ -15,3 +15,5 @@
 
 第三种是手机淘宝团队使用的flexible.js demo：https://songyang2017.github.io/Mobile-FontSize-seting/flexible.html
 解说：http://caibaojian.com/flexible-js.html
+
+第四种现在淘宝手机网页版，用的meta标签不同以往
