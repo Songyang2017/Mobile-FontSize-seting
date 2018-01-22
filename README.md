@@ -13,4 +13,5 @@
 原理是 1rem=(页面的宽度/750)*100,这个不会有750的限制
 
 
-第三种是手机淘宝团队使用的flexible.js这个以后再说。
+第三种是手机淘宝团队使用的flexible.js。
+解说：http://caibaojian.com/flexible-js.html
